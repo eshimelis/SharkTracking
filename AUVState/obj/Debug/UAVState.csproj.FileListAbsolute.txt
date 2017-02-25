@@ -1,0 +1,6 @@
+C:\Users\Eyassu\Desktop\LAIR\UAVState\UAVState\bin\Debug\UAVState.exe.config
+C:\Users\Eyassu\Desktop\LAIR\UAVState\UAVState\bin\Debug\UAVState.exe
+C:\Users\Eyassu\Desktop\LAIR\UAVState\UAVState\bin\Debug\UAVState.pdb
+C:\Users\Eyassu\Desktop\LAIR\UAVState\UAVState\obj\Debug\UAVState.csprojResolveAssemblyReference.cache
+C:\Users\Eyassu\Desktop\LAIR\UAVState\UAVState\obj\Debug\UAVState.exe
+C:\Users\Eyassu\Desktop\LAIR\UAVState\UAVState\obj\Debug\UAVState.pdb
